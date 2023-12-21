@@ -1,0 +1,19 @@
+.custom-bg{
+    background: #3b5d50 !important;
+}
+
+.text-navbar{
+    color:darkgray;
+}
+
+.text-navbar:hover{
+    color: white;
+    border-bottom: 5px solid #f9bf29;
+    transition: 0s;
+}
+
+
+.btn-green{
+    background-color: #3b5d50;
+    border-color: transparent;
+}
