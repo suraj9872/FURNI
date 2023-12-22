@@ -1,0 +1,77 @@
+.bg-img{
+    background-image: url("https://themewagon.github.io/furni/images/couch.png");
+    background-size: cover;
+}
+
+
+.btn-2{
+    border-radius: 26px !important;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: large;
+    font-weight: 500;
+    background-color:  #f9bf29 !important;
+    color: #2f2f2f !important;
+    
+}
+
+
+.btn-3{
+    border-radius: 26px !important;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: larger;
+    font-weight: 500;
+    background-color: transparent !important;
+    color:white !important;
+    border-color: darkgray;
+    border-width: 2px;
+}
+
+.btn-3:hover{
+    border-color: white;
+}
+
+
+
+.btn-4{
+
+    border-radius: 26px !important;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: larger;
+    font-weight: 500;
+    background-color: black !important;
+    color:white !important;
+    border-color: darkgray;
+    border-width: 2px;
+}
+
+
+.chair-name{
+    font-size: 17px;
+}
+
+.chair-icon{
+    /* text-align: center !important; */
+    font-size: 30px;
+    color:transparent;
+}
+
+.chair-icon:hover{
+    color: black;;
+}
+
+.btn-carousel{
+
+    width: 55px;
+    height: 12%;
+    margin-top: 14%;
+}
+
